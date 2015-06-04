@@ -5,7 +5,7 @@ troll aime manger et dormir dans cavernes humides, chanter chants trolls avec le
 
 troll a quatre pierres. pas savoir compter plus.
 
-si troll doit *taper* ou *bouger*, troll mettre une, deux, trois, quatre pierres. pas plus que quatre, pas savoir compter plus.
+si troll doit *taper* ou *bouger*, mettre une, deux, trois, quatre pierres. pas plus que quatre, pas savoir compter plus.
 
 maître sait si *taper* ou *bouger* vaut une, deux, trois, quatre ou plus de pierre que troll peut compter.
 
