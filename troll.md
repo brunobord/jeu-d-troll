@@ -15,6 +15,8 @@ troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter
 
 maître veut que troll taper sur elfes crâneurs, nains avides ou hommes sales.
 
+si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres.
+
 > que massue de troll ne casse jamais.
 
 jeu rôle Bruno Bord. CC-BY.
