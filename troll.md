@@ -14,7 +14,7 @@ si maître a plus que troll, troll perd, mais maître donne une pierre à troll.
 
 troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter).
 
-maître veut que troll taper sur elfes crâneurs, nains avides ou hommes sales.
+maître veut que troll taper sur elfes crâneurs, nains avides ou hommes sales. maître veut aussi autres missions, mais troll pas tout comprendre.
 
 si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres.
 
