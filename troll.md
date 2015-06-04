@@ -10,7 +10,11 @@ si troll doit *taper* ou *bouger*, mettre une, deux, trois, quatre pierres. pas 
 
 maître sait si *taper* ou *bouger* vaut une, deux, trois, quatre ou plus de pierre que troll peut compter.
 
-si maître a plus que troll, troll perd, mais maître donne une pierre à troll. si troll gagne, troll heureux, mais maître prend une pierre. si troll et maître ont pareil, troll choisir si gagne ou perd.
+si maître a plus que troll, troll perd, troll furieux, mais maître donne une nouvelle pierre à troll.
+
+si troll gagne, troll heureux, mais maître prend une pierre.
+
+si troll et maître ont pareil, troll choisir si gagne ou perd.
 
 troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter).
 
