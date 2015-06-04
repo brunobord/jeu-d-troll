@@ -1,7 +1,7 @@
 
-all: build pdf
+all: html pdf
 
-build: style.css markdown.css troll.md
+html: style.css markdown.css troll.md
 	pandoc -t html -f markdown -s -c style.css -c markdown.css troll.md > index.html
 
 pdf: index.html
