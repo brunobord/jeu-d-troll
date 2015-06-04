@@ -26,4 +26,4 @@ si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. o
 
 > que massue de troll ne casse jamais.
 
-jeu rôle Bruno Bord. CC-BY.
+jeu troll Bruno Bord. CC-BY.
