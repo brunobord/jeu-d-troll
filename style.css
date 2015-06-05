@@ -1,3 +1,7 @@
 /**
  * Nothing here (yet)
  */
+body {
+    font-family: 'Droid Serif', serif !important;
+    font-weight: normal !important;
+}
