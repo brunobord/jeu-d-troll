@@ -22,7 +22,7 @@ troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter
 
 maître veut que troll taper sur elfes crâneurs, nains avides ou hommes sales. maître veut aussi autres missions, mais troll pas tout comprendre. se méfier magiciens.
 
-si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, maître enlever pierres.
+si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, ou parle comme humain, maître enlever pierres.
 
 > que massue de troll ne casse jamais.
 
