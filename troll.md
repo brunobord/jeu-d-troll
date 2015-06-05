@@ -1,8 +1,8 @@
-# troll
+# jeu d'troll
 
 tu es troll. père de troll a choisi nom.
 
-troll aime manger et dormir dans cavernes humides, chanter chants trolls avec les copains et taper sur rocs.
+troll aime manger et dormir dans cavernes humides, chanter chants trolls avec copains et taper sur rocs.
 
 troll a quatre pierres. pas savoir compter plus.
 
@@ -26,4 +26,4 @@ si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. o
 
 > que massue de troll ne casse jamais.
 
-jeu troll Bruno Bord. CC-BY.
+jeu d'troll - Bruno Bord. CC-BY.

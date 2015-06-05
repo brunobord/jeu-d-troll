@@ -1,8 +1,8 @@
-# Troll
+# Jeu d'Troll
 
-*Troll* est jeu rôle (jeu troll ?) par Bruno Bord. Bruno Bord a pensé pour concours site Scriiipt : "[Il était une fois un petit jeu de rôle...](http://scriiipt.com/2015/06/concours-il-etait-une-fois-un-petit-jeu-de-role/)".
+*Jeu d'Troll* est jeu rôles. Bruno Bord a pensé jeu pour concours site Scriiipt : "[Il était une fois un petit jeu de rôle...](http://scriiipt.com/2015/06/concours-il-etait-une-fois-un-petit-jeu-de-role/)".
 
-Jeu être CC-BY. Toi faire ce que toi veux avec jeu. Mais dire qui a fait jeu. Sinon troll viendra casser ta tête avec massue.
+Jeu être [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). Toi faire ce que toi veux avec jeu. Mais dire qui a fait jeu. Sinon troll viendra casser ta tête avec massue.
 
 ## Faire
 
