@@ -20,7 +20,7 @@ si troll et maître ont pareil, troll choisir si gagne ou perd.
 
 troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter).
 
-si troll ou plusieurs veut aider, donner une pierre. si trolls gagnent, trolls perdre chacun une pierre. si trolls perdent, premier troll a une pierre pour lui, une pour autre troll choisi par premier.
+si troll veut aider, ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun une pierre. si trolls perdent, premier troll a une pierre pour lui, une pour autre troll choisi par premier.
 
 maître veut que troll taper sur elfes crâneurs, nains avides ou hommes sales. maître veut aussi autres missions, mais troll pas tout comprendre. se méfier magiciens.
 
