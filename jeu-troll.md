@@ -28,7 +28,7 @@ maître veut que troll tape sur elfes crâneurs, nains cupides ou hommes faibles
 orcs, kobolds et gobelins vicieux, mais pas taper.  
 maître veut aussi autres missions, mais troll pas tout comprendre.
 
-si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, ou parle comme humain, maître enlever pierres.
+si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, ou parle comme humain, maître prendre pierres.
 
 > que massue de troll ne casse jamais.
 
