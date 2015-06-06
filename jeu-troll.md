@@ -6,9 +6,9 @@ troll aime manger et dormir dans cavernes humides, chanter chants trolls avec co
 
 troll a quatre pierres. pas savoir compter plus.
 
-si troll doit *taper* ou *bouger*, mettre une, deux, trois ou quatre pierres dans main. pas plus que quatre, pas savoir compter plus.
+si troll doit **taper** ou **bouger**, mettre une, deux, trois ou quatre pierres dans main. pas plus que quatre, pas savoir compter plus.
 
-maître sait si *taper* ou *bouger* vaut une, deux, trois, quatre ou plus de pierre que troll peut compter.
+maître sait si **taper** ou **bouger** vaut une, deux, trois, quatre ou plus de pierre que troll peut compter.
 
 maître et troll montrer pierre en même temps.
 
@@ -22,7 +22,9 @@ troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter
 
 si troll veut aider, ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun une pierre. si trolls perdent, premier troll a une pierre pour lui, une pour autre troll choisi par premier.
 
-maître veut que troll taper sur elfes crâneurs, nains cupides ou hommes faibles. maître veut aussi autres missions, mais troll pas tout comprendre. magiciens, c'est danger.
+maître veut que troll taper sur elfes crâneurs, nains cupides ou hommes faibles. magiciens, c'est danger.  
+orcs, kobolds et gobelins sentent mauvais, mais pas taper.
+maître veut aussi autres missions, mais troll pas tout comprendre.
 
 si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, ou parle comme humain, maître enlever pierres.
 
