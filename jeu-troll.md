@@ -12,18 +12,20 @@ maître sait si **taper** ou **bouger** vaut une, deux, trois, quatre ou plus de
 
 maître et troll montrer pierre en même temps.
 
-si maître a plus que troll, troll perd, troll furieux, mais maître donne une nouvelle pierre à troll.
+si maître plus que troll, troll perd, troll furieux, mais maître donne nouvelle pierre à troll.
 
-si troll gagne, troll heureux, mais maître prend une pierre.
+si troll gagne, troll heureux, mais maître prend pierre.
 
 si troll et maître ont pareil, troll choisir si gagne ou perd.
 
 troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter).
 
-si troll veut aider, ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun une pierre. si trolls perdent, premier troll a une pierre pour lui, une pour autre troll choisi par premier.
+si troll ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun sa pierre. si trolls perdent, premier troll a pierre pour lui, pierre pour autre troll choisi par premier.
 
-maître veut que troll taper sur elfes crâneurs, nains cupides ou hommes faibles. magiciens, c'est danger.  
-orcs, kobolds et gobelins sentent mauvais, mais pas taper.
+duel c'est pierre contre pierre. gagnant donne pierre à perdant.
+
+maître veut que troll tape sur elfes crâneurs, nains cupides ou hommes faibles. magiciens, c'est danger.  
+orcs, kobolds et gobelins vicieux, mais pas taper.  
 maître veut aussi autres missions, mais troll pas tout comprendre.
 
 si troll survit, ou fait grandes choses, maître donne casque ou bonne massue. ou nouvelles pierres. si troll pense trop, ou parle comme humain, maître enlever pierres.
