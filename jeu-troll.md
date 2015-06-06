@@ -1,4 +1,4 @@
-# jeu d'troll
+% jeu d'troll
 
 tu es troll. père de troll a choisi nom.
 
