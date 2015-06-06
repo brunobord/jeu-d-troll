@@ -2,6 +2,9 @@
  * Nothing here (yet)
  */
 body {
-    font-family: 'Droid Serif', serif !important;
-    font-weight: normal !important;
+    font-family: 'Schoolbell', cursive !important;
+    font-size: 18px !important;
+}
+h1 {
+    font-family: "Slackey", cursive !important;
 }
