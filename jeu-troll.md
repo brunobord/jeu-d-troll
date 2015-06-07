@@ -22,7 +22,7 @@ troll échouer sur autres choses (dis-cré-tion, ré-flé-chir, dé-nom-brer).
 
 si troll ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun sa pierre. si trolls perdent, premier troll a pierre pour lui, pierre pour autre troll choisi par premier.
 
-duel c'est pierre contre pierre. gagnant donne pierre à perdant.
+duel c'est pierres contre pierres. gagnant donne pierre à perdant. si autant de pierres, attaquant gagne.
 
 maître veut que troll tape sur elfes crâneurs, nains cupides ou hommes faibles. magiciens, c'est danger.  
 orcs, kobolds et gobelins vicieux, mais pas taper.  
