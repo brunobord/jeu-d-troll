@@ -8,7 +8,7 @@ troll a quatre pierres. pas savoir compter plus.
 
 si troll doit **taper** ou **bouger**, mettre une, deux, trois ou quatre pierres dans main. pas plus que quatre, pas savoir compter plus.
 
-maître sait si **taper** ou **bouger** vaut une, deux, trois, quatre ou plus de pierre que troll peut compter.
+maître sait si **taper** ou **bouger** vaut une, deux, trois, quatre ou plus de pierres que troll peut compter.
 
 maître et troll montrer pierre en même temps.
 
@@ -18,7 +18,7 @@ si troll gagne, troll heureux, mais maître prend pierre.
 
 si troll et maître ont pareil, troll choisir si gagne ou perd.
 
-troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, compter).
+troll toujours échouer sur autres choses (dis-cré-tion, ré-flé-chir, dé-nom-brer).
 
 si troll ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun sa pierre. si trolls perdent, premier troll a pierre pour lui, pierre pour autre troll choisi par premier.
 
