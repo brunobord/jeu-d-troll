@@ -9,3 +9,12 @@ body {
 h1 {
     font-family: "Slackey", cursive !important;
 }
+
+@media print {
+
+    body {
+        font-size: 14px !important;
+    }
+
+
+}
