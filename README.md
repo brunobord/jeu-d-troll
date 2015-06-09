@@ -6,7 +6,7 @@ Jeu être [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). Toi faire ce
 
 ## Faire
 
-Faire page HTML, avoir [Pandoc](http://pandoc.org/) et `make`.
+Faire page HTML, avoir [Pandoc](http://pandoc.org/) et `make`. Faire aussi PDF, mais moche sans fontes.
 
 ## Voir
 
