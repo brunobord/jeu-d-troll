@@ -8,6 +8,8 @@ Jeu être [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). Toi faire ce
 
 Faire page HTML, avoir [Pandoc](http://pandoc.org/) et `make`. Faire aussi PDF, mais moche sans fontes.
 
+Pour faire PDF joli, utiliser navigateur, enregistrer sous PDF. Seul moyen sûr avoir fontes. Autres outils stupides, pas marcher, colère, tout casser.
+
 ## Voir
 
 Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://brunobord.github.io/troll/](http://brunobord.github.io/troll/).
