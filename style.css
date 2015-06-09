@@ -1,6 +1,12 @@
-/**
- * Nothing here (yet)
- */
+@font-face{
+     font-family : "Schoolbell";
+     src : url('./fonts/Schoolbell.ttf') format('truetype');
+}
+@font-face{
+     font-family : "Slackey";
+     src : url('./fonts/Slackey.ttf') format('truetype');
+ }
+
 body {
     font-family: 'Schoolbell', cursive !important;
     font-size: 18px !important;

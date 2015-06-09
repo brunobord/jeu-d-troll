@@ -12,6 +12,13 @@ Faire page HTML, avoir [Pandoc](http://pandoc.org/) et `make`.
 
 Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://brunobord.github.io/troll/](http://brunobord.github.io/troll/).
 
+## Fonts
+
+Texte écrit avec fontes. C'est comme pierre, mais plus mou.
+
+* [Slackey](https://github.com/google/fonts/tree/master/apache/slackey)
+* [Schoolbell](https://github.com/google/fonts/tree/master/apache/schoolbell)
+
 ----
 
 > Que massue de troll ne casse jamais.
