@@ -18,6 +18,12 @@ h1 {
 
 @media print {
     body {
-        font-size: 13px !important;
+        font-size: 14px !important;
+    }
+    blockquote {
+        color: #666;
+        margin: 0;
+        padding-left: 3em;
+        border-left: 0.5em #EEE solid;
     }
 }
