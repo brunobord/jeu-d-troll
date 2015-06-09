@@ -12,3 +12,4 @@
 * tu sais **taper**, **bouger**. pour autres choses, tu rates,
 * troll peut aider autre troll,
 * troll peut taper autre troll aussi,
+* troll peut gagner pierre si bon rôle, peut perdre pierre si penser en humain,
