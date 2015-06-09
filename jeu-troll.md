@@ -4,6 +4,8 @@ tu es troll. père de troll a choisi nom.
 
 troll aime manger et dormir dans cavernes humides, chanter chants trolls avec copains et taper sur rocs.
 
+maître dit le monde.
+
 troll a quatre pierres. pas savoir compter plus.
 
 si troll veut **taper** ou **bouger**, mettre entre une et quatre pierres dans main. pas plus que quatre, pas savoir compter plus.
