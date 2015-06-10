@@ -12,7 +12,7 @@ Pour faire PDF joli, utiliser navigateur, enregistrer sous PDF. Seul moyen sûr 
 
 ## Voir
 
-Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://brunobord.github.io/troll/](http://brunobord.github.io/troll/).
+Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://troll.jehaisleprintemps.net](http://troll.jehaisleprintemps.net).
 
 ## Fonts
 

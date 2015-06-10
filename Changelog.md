@@ -2,9 +2,9 @@
 
 # v1.0.0
 
-(unreleased)
+(10 juin 2015)
 
-*Jeu d'troll*. Tu es troll:
+*Jeu d'troll*. Tu es troll :
 
 * troll grands guerriers, en roc,
 * maître dit le monde,
@@ -13,3 +13,5 @@
 * troll peut aider autre troll,
 * troll peut taper autre troll aussi,
 * troll peut gagner pierre si bon rôle, peut perdre pierre si penser en humain,
+
+248 mots.
