@@ -6,9 +6,15 @@ Jeu être [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). Toi faire ce
 
 ## Faire
 
-Faire page HTML, avoir [Pandoc](http://pandoc.org/) et `make`. Faire aussi PDF, mais moche sans fontes.
+Faire page HTML, avoir [Python](http://python.org/) et `make` et [Pandoc](http://pandoc.org). Faire aussi PDF, mais moche sans fontes.
 
 Pour faire PDF joli, utiliser navigateur, enregistrer sous PDF. Seul moyen sûr avoir fontes. Autres outils stupides, pas marcher, colère, tout casser.
+
+Installer dans [en-vi-ron-ne-ment tout seul](https://virtualenv.pypa.io/en/latest/).
+
+```
+pip install -r requirements.pip
+```
 
 ## Voir
 

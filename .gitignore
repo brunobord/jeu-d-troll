@@ -1,2 +1,5 @@
 # Ssssshhhhh it's secret
 publish.sh
+# usual
+*.pyc
+*.pyo

@@ -1,0 +1,19 @@
+import CommonMark
+import jinja2
+from codecs import open
+from jinja2 import Environment, FileSystemLoader
+
+if __name__ == '__main__':
+    parser = CommonMark.DocParser()
+    renderer = CommonMark.HTMLRenderer()
+    with open('jeu-troll.md', encoding='utf8') as fd:
+        content = fd.read()
+    ast = parser.parse(content)
+    html = renderer.render(ast)
+
+    env = Environment(loader=FileSystemLoader('templates'))
+    template = env.get_template('base.html')
+    output = template.render(content=html)
+
+    with open('index.html', 'w', encoding='utf8') as fd:
+        fd.write(output)
