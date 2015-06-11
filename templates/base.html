@@ -8,12 +8,14 @@
   <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
+{% block nav %}
 <nav>
     <ul class="nav">
         <li><a href="index.html">troll</a></li>
         <li><a href="https://github.com/brunobord/jeu-d-troll">github</a></li>
     </ul>
 </nav>
+{% endblock %}
 <section>
 {{ content }}
 </section>
