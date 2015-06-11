@@ -1,29 +1,109 @@
-@font-face{
-     font-family : "Schoolbell";
-     src : url('./fonts/Schoolbell.ttf') format('truetype');
+/* FONTS */
+@font-face {
+  font-family: "Schoolbell";
+  src: url('./fonts/Schoolbell.ttf') format('truetype');
 }
-@font-face{
-     font-family : "Slackey";
-     src : url('./fonts/Slackey.ttf') format('truetype');
- }
+
+@font-face {
+  font-family: "Slackey";
+  src: url('./fonts/Slackey.ttf') format('truetype');
+}
+
+/* GENERAL */
+html {
+  font-size: 100%;
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
 
 body {
-    font-family: 'Schoolbell', cursive !important;
-    font-size: 18px !important;
-    letter-spacing: 0.33px;
-}
-h1 {
-    font-family: "Slackey", cursive !important;
+  font-family: 'Schoolbell', cursive !important;
+  font-size: 18px !important;
+  letter-spacing: 0.33px;
+  color: #444;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: auto;
+  max-width: 42em;
+  background: #fefefe;
 }
 
+::-moz-selection {
+  background: rgba(255,255,0,0.3);
+  color: #000;
+}
+
+::selection {
+  background: rgba(255,255,0,0.3);
+  color: #000;
+}
+
+a::-moz-selection {
+  background: rgba(255,255,0,0.3);
+  color: #0645ad;
+}
+
+p {
+  margin: 1em 0;
+}
+
+h1 {
+  font-weight: normal;
+  color: #111;
+  line-height: 1em;
+  font-family: "Slackey", cursive !important;
+  font-size: 2.5em;
+}
+
+blockquote {
+  color: #666666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #EEE solid;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* RESPONSIVE */
+@media only screen and (min-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+/* PRINT */
 @media print {
-    body {
-        font-size: 14px !important;
-    }
-    blockquote {
-        color: #666;
-        margin: 0;
-        padding-left: 3em;
-        border-left: 0.5em #EEE solid;
-    }
+  * {
+    background: transparent !important;
+    color: black !important;
+    filter: none !important;
+    -ms-filter: none !important;
+  }
+
+  body {
+    max-width: 100%;
+    font-size: 14px !important;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  @page :left {
+    margin: 15mm 20mm 15mm 10mm;
+  }
+
+  @page :right {
+    margin: 15mm 10mm 15mm 20mm;
+  }
 }
