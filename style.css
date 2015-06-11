@@ -80,6 +80,20 @@ strong {
   }
 }
 
+/* MENU */
+nav {
+  position: fixed;
+  right: 0;
+  top: 20%;
+  width: 8em;
+  margin-top: -2.5em;
+  background-color: rgba(54, 54, 92, .17);
+}
+nav a {
+    text-decoration: none;
+    color: #36365c;
+}
+
 /* PRINT */
 @media print {
   * {
@@ -99,6 +113,9 @@ strong {
     widows: 3;
   }
 
+  nav {
+    display: none;
+  }
   @page :left {
     margin: 15mm 20mm 15mm 10mm;
   }
