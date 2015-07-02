@@ -27,7 +27,7 @@ maître a autres idées, missions bizarres, troll est surpris, mais troll cherch
 
 troll différent autre troll. père de troll a choisi chose unique pour troll.
 
-si troll choisit **avantage** pour autres choses (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
+si troll choisit **avantage** pour *autres choses* (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
 
 si troll sait **bouger** plus vite, ou **taper** plus fort, quand maître et troll montrent pierre ensemble, si troll a égalité et choisit victoire, troll ne perd pas pierre.
 
