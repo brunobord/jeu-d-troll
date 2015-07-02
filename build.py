@@ -8,8 +8,8 @@ from jinja2 import Environment, FileSystemLoader
 
 pages = (
     {'input': 'jeu-troll.md', 'output': 'index.html'},
-    {'input': 'jeu-troll.md', 'output': 'print.html', 'template': 'print.html'},
     {'input': 're-troll.md', 'output': 're-troll.html', 'subtitle': "re-troll"},
+    {'input': ['jeu-troll.md', 're-troll.md'], 'output': 'print.html', 'template': 'print.html'},
 )
 
 if __name__ == '__main__':
@@ -18,15 +18,22 @@ if __name__ == '__main__':
     for page in pages:
         template_name = page.get('template', default_template)
         output_file = page.get('output')
-        input_file = page.get('input')
+        input_files = page.get('input')
         subtitle = page.get('subtitle', None)
 
-        print("{} + {} = {}".format(input_file, template_name, output_file))
+        print("{} + {} = {}".format(input_files, template_name, output_file))
 
         parser = CommonMark.DocParser()
         renderer = CommonMark.HTMLRenderer()
-        with open(input_file, encoding='utf8') as fd:
-            content = fd.read()
+        if isinstance(input_files, (str, unicode)):
+            input_files = [input_files]
+
+        contents = []
+        for input_file in input_files:
+            with open(input_file, encoding='utf8') as fd:
+                contents.append(fd.read())
+
+        content = '\n----\n'.join(contents)
         ast = parser.parse(content)
         html = renderer.render(ast)
 
