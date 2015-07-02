@@ -15,7 +15,7 @@ maître a missions pour troll :
 * troll surveille porte forteresse, trésor du maître,
 * troll transporte trésor ou caisse secrète,
 * troll escorte prisionnier du maître,
-* troll doit cogner tape sur elfes crâneurs, nains cupides ou hommes faibles, ARH ARH,
+* troll doit taper sur elfes crâneurs, nains cupides ou hommes faibles, ARH ARH,
 * troll boit dans taverne, et bagarre souvent,
 * troll chasse pour manger,
 * troll doit chercher message ou objet pour maître chez grand magicien,
