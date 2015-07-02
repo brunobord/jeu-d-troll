@@ -22,3 +22,15 @@ maître a missions pour troll :
 * troll doit calmer orcs rebelles, ARH ARH,
 
 maître a autres idées, missions bizarres, troll est surpris, mais troll cherche pas. troll peut gagner pierres si maître est content.
+
+----
+
+troll différent autre troll. père de troll a choisi chose unique pour troll.
+
+si troll choisit **avantage** pour autres choses (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
+
+si troll sait **bouger** plus vite, ou **taper** plus fort, quand maître et troll montrent pierre ensemble, si troll a égalité et choisit victoire, troll ne perd pas pierre.
+
+si troll a arme très forte, c'est pareil, troll ne perd pas pierre si égalité.
+
+si troll très laid ou a marque sur la peau, autres trolls **respectent**. quand troll arrive à taper troll **respecté**, troll perd deux pierres.
