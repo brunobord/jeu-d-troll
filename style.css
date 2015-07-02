@@ -94,6 +94,12 @@ nav a {
     color: #36365c;
 }
 
+hr {
+    page-break-after: always;
+    color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
 /* PRINT */
 @media print {
   * {
@@ -123,4 +129,5 @@ nav a {
   @page :right {
     margin: 15mm 10mm 15mm 20mm;
   }
+
 }
