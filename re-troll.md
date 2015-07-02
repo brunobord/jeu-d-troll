@@ -2,6 +2,8 @@
 
 > jeu d'troll trop court. ça, c'est re-troll, aide maître pour idées.
 
+## troll fait quoi ?
+
 trolls sont partout, beaucoup de façons. troll vit dans caverne, ou donjon, ou forteresse du maître. troll combat magiciens (danger) et chevaliers (danger aussi).
 
 troll vit aussi dans grande ville noire et sale, beaucoup poussière. chevaliers ont armure titane et mains qui lancent éclairs, volent dans boîtes-à-roues.
@@ -23,9 +25,9 @@ maître a missions pour troll :
 
 maître a autres idées, missions tordues, troll est surpris, mais troll cherche pas. troll peut gagner pierres si maître est content. troll aime pierres.
 
-----
+## pas pareil
 
-troll différent autre troll. père de troll a choisi chose unique pour troll.
+troll pas pareil autre troll. père de troll a choisi chose unique pour troll.
 
 si troll a **avantage** pour *autres choses* (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
 
