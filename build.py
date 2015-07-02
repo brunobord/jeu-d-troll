@@ -9,7 +9,7 @@ from jinja2 import Environment, FileSystemLoader
 pages = (
     {'input': 'jeu-troll.md', 'output': 'index.html'},
     {'input': 'jeu-troll.md', 'output': 'print.html', 'template': 'print.html'},
-    {'input': 're-troll.md', 'output': 're-troll.html'},
+    {'input': 're-troll.md', 'output': 're-troll.html', 'subtitle': "re-troll"},
 )
 
 if __name__ == '__main__':
@@ -19,6 +19,7 @@ if __name__ == '__main__':
         template_name = page.get('template', default_template)
         output_file = page.get('output')
         input_file = page.get('input')
+        subtitle = page.get('subtitle', None)
 
         print("{} + {} = {}".format(input_file, template_name, output_file))
 
@@ -31,7 +32,7 @@ if __name__ == '__main__':
 
         env = Environment(loader=FileSystemLoader('templates'))
         template = env.get_template(template_name)
-        output = template.render(content=html)
+        output = template.render(content=html, subtitle=subtitle)
 
         with open(output_file, 'w', encoding='utf8') as fd:
             fd.write(output)
