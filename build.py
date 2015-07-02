@@ -9,6 +9,7 @@ from jinja2 import Environment, FileSystemLoader
 pages = (
     {'input': 'jeu-troll.md', 'output': 'index.html'},
     {'input': 'jeu-troll.md', 'output': 'print.html', 'template': 'print.html'},
+    {'input': 're-troll.md', 'output': 're-troll.html'},
 )
 
 if __name__ == '__main__':
