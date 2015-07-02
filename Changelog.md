@@ -1,6 +1,10 @@
 # Changelog
 
-# v1.0.0
+## master
+
+* troll peut faire plus-que-une page,
+
+## v1.0.0
 
 (10 juin 2015)
 
