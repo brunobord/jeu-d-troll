@@ -1,30 +1,36 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*-
 import sys
 import CommonMark
 import jinja2
 from codecs import open
 from jinja2 import Environment, FileSystemLoader
 
+pages = (
+    {'input': 'jeu-troll.md', 'output': 'index.html'},
+    {'input': 'jeu-troll.md', 'output': 'print.html', 'template': 'print.html'},
+)
+
 if __name__ == '__main__':
-    output_file = 'index.html'
-    template_name = 'base.html'
+    default_template = 'base.html'
 
-    if len(sys.argv) >= 2:
-        output_file = sys.argv[1]
-    if len(sys.argv) >= 3:
-        template_name = sys.argv[2]
+    for page in pages:
+        template_name = page.get('template', default_template)
+        output_file = page.get('output')
+        input_file = page.get('input')
 
-    print output_file, template_name
+        print("{} + {} = {}".format(input_file, template_name, output_file))
 
-    parser = CommonMark.DocParser()
-    renderer = CommonMark.HTMLRenderer()
-    with open('jeu-troll.md', encoding='utf8') as fd:
-        content = fd.read()
-    ast = parser.parse(content)
-    html = renderer.render(ast)
+        parser = CommonMark.DocParser()
+        renderer = CommonMark.HTMLRenderer()
+        with open(input_file, encoding='utf8') as fd:
+            content = fd.read()
+        ast = parser.parse(content)
+        html = renderer.render(ast)
 
-    env = Environment(loader=FileSystemLoader('templates'))
-    template = env.get_template(template_name)
-    output = template.render(content=html)
+        env = Environment(loader=FileSystemLoader('templates'))
+        template = env.get_template(template_name)
+        output = template.render(content=html)
 
-    with open(output_file, 'w', encoding='utf8') as fd:
-        fd.write(output)
+        with open(output_file, 'w', encoding='utf8') as fd:
+            fd.write(output)
