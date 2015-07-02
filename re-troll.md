@@ -2,7 +2,7 @@
 
 > jeu d'troll trop court. ça, c'est re-troll, aide maître pour idées.
 
-trolls sont partout, beaucoup de façons. troll vit dans caverne, ou donjon, forteresse du maître. troll combat magiciens (danger) et chevaliers (danger aussi).
+trolls sont partout, beaucoup de façons. troll vit dans caverne, ou donjon, ou forteresse du maître. troll combat magiciens (danger) et chevaliers (danger aussi).
 
 troll vit aussi dans grande ville noire et sale, beaucoup poussière. chevaliers ont armure titane et mains qui lancent éclairs, volent dans boîtes-à-roues.
 
@@ -12,22 +12,22 @@ maître choisit souvent mauvaise situation pour troll. troll a pas peur. mais tr
 
 maître a missions pour troll :
 
-* troll surveille porte forteresse, trésor du maître,
-* troll transporte trésor ou caisse secrète,
-* troll escorte prisionnier du maître,
+* troll surveille porte, forteresse, trésor du maître,
+* troll transporte trésor ou caisse secrète ou chose fragile,
+* troll escorte prisionnier du maître, invité du maître,
 * troll doit taper sur elfes crâneurs, nains cupides ou hommes faibles, ARH ARH,
 * troll boit dans taverne, et bagarre souvent,
 * troll chasse pour manger,
 * troll doit chercher message ou objet pour maître chez grand magicien,
 * troll doit calmer orcs rebelles, ARH ARH,
 
-maître a autres idées, missions bizarres, troll est surpris, mais troll cherche pas. troll peut gagner pierres si maître est content.
+maître a autres idées, missions tordues, troll est surpris, mais troll cherche pas. troll peut gagner pierres si maître est content. troll aime pierres.
 
 ----
 
 troll différent autre troll. père de troll a choisi chose unique pour troll.
 
-si troll choisit **avantage** pour *autres choses* (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
+si troll a **avantage** pour *autres choses* (dis-cré-tion, ré-flé-chir, dé-nom-brer...), peut choisir donner une pierre pour réussir, mais pas réussite comme il faut. réussite-presque.
 
 si troll sait **bouger** plus vite, ou **taper** plus fort, quand maître et troll montrent pierre ensemble, si troll a égalité et choisit victoire, troll ne perd pas pierre.
 
