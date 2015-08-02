@@ -20,6 +20,14 @@ pip install -r requirements.pip
 
 Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://troll.jehaisleprintemps.net](http://troll.jehaisleprintemps.net).
 
+## Jouer
+
+Si humain joue à "jeu d'troll", il peut envoyer messages. L'humain peut dire belles choses ou choses désagréables. Le Maître veut améliorer jeu troll et il écoutera paroles de l'humain. Mais pas trop méchantes paroles, si le Maître est en colère, il prend toutes les pierres.
+
+* [Issues Github](https://github.com/brunobord/jeu-d-troll/issues),
+* [e-mail](mailto:bruno+troll@jehaisleprintemps.net),
+* [twitter](https://twitter.com/jeutroll).
+
 ## Fonts
 
 Texte écrit avec fontes. C'est comme pierre, mais plus mou.
