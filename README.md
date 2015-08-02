@@ -4,6 +4,8 @@
 
 Jeu être [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). Toi faire ce que toi veux avec jeu. Mais dire qui a fait jeu. Sinon troll viendra casser ta tête avec massue.
 
+Troll est content, car *Jeu d'Troll* [a gagné place 3 au concours](http://scriiipt.com/2015/08/jeu-dtroll-le-troisieme-laureat-du-concours-il-etait-une-fois-un-petit-jeu-de-role/). Troll jette pierres en l'air pour montrer joie. vieille tradition troll: "fête des bosses".
+
 ## Faire
 
 Faire page HTML, avoir [Python](http://python.org/) et `make` et [Pandoc](http://pandoc.org). Faire aussi PDF, mais moche sans fontes.
