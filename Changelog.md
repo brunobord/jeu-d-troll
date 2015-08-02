@@ -3,6 +3,7 @@
 ## master
 
 * troll peut faire plus-que-une page,
+* re-troll, idées pour maître,
 
 ## v1.0.0
 
