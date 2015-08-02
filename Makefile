@@ -1,3 +1,11 @@
+help:
+	@echo "jeu d'troll"
+	@echo
+	@echo "options:"
+	@echo " * html: faire site html"
+	@echo " * pdf: faire pdf vilain"
+	@echo " * all: faire html et pdf vilain"
+	@echo
 
 all: html pdf
 
