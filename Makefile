@@ -9,7 +9,7 @@ help:
 
 all: html pdf
 
-html: style.css jeu-troll.md
+html: style.css jeu-troll.md re-troll.md
 	python build.py
 
 pdf: print.html

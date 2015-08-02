@@ -3,13 +3,13 @@
 ## master
 
 * troll peut faire plus-que-une page,
-* re-troll, idées pour maître,
+* re-troll, idées pour maître, pour faire plus que *jeu d'troll*,
 
 ## v1.0.0
 
 (10 juin 2015)
 
-*Jeu d'troll*. Tu es troll :
+*jeu d'troll*. tu es troll :
 
 * troll grands guerriers, en roc,
 * maître dit le monde,

@@ -20,7 +20,7 @@ si troll gagne, troll décide, mais maître prend pierre.
 
 si troll et maître ont pareil, troll choisir si gagne ou perd.
 
-troll échouer sur autres choses (dis-cré-tion, ré-flé-chir, dé-nom-brer).
+troll échouer sur *autres choses* (dis-cré-tion, ré-flé-chir, dé-nom-brer).
 
 si troll ou plus-que-un troll veulent aider, donner une pierre. si trolls gagnent, trolls perdre chacun sa pierre. si trolls perdent, premier troll a pierre pour lui, pierre pour autre troll choisi par premier.
 
