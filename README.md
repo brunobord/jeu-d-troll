@@ -24,6 +24,14 @@ pip install tox
 
 ensuite, faire faire travail par tox.
 
+```
+tox  # ça donne aide
+tox -e html # fait le site html
+tox -e pdf # fait le PDF laid
+```
+
+mais tox sait pas faire PDF avec joli. troll toujours en colère, tout casser.
+
 ## Voir
 
 Voir page HTML ou mettre sur papier d'arbre-mort ici : [http://troll.jehaisleprintemps.net](http://troll.jehaisleprintemps.net).
