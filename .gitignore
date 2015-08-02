@@ -3,3 +3,5 @@ publish.sh
 # usual
 *.pyc
 *.pyo
+# tox
+.tox/
