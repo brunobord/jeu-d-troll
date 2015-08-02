@@ -6,6 +6,10 @@ help:
 	@echo " * pdf: faire pdf vilain"
 	@echo " * all: faire html et pdf vilain"
 	@echo
+	@echo "si faire avec tox, faire:"
+	@echo
+	@echo "   tox -e <cible>"
+	@echo ""
 
 all: html pdf
 
