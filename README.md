@@ -12,11 +12,17 @@ Faire page HTML, avoir [Python](http://python.org/) et `make` et [Pandoc](http:/
 
 Pour faire PDF joli, utiliser navigateur, enregistrer sous PDF. Seul moyen sûr avoir fontes. Autres outils stupides, pas marcher, colère, tout casser.
 
+### tox
+
+troll aime tox. tox fait tout.
+
 Installer dans [en-vi-ron-ne-ment tout seul](https://virtualenv.pypa.io/en/latest/).
 
 ```
-pip install -r requirements.pip
+pip install tox
 ```
+
+ensuite, faire faire travail par tox.
 
 ## Voir
 
