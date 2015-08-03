@@ -29,7 +29,11 @@ maître a missions pour troll :
 
 maître a autres idées, missions tordues, troll est surpris, mais troll cherche pas. troll peut gagner pierres si maître est content. troll aime pierres.
 
-## pas pareil
+## règles re-troll
+
+règles pas forcées, choix du maître.
+
+### pas pareil
 
 troll pas pareil autre troll. père de troll a choisi chose unique pour troll.
 
@@ -42,3 +46,26 @@ si troll a arme **puissante**, c'est pareil, troll ne perd pas pierre si égalit
 
 si troll très laid ou a marque sur la peau, autres trolls **respectent**.  
 quand troll arrive à taper troll **respecté**, troll perd *deux* pierres. troll **respecté** est chef, souvent.
+
+### bol de pierres
+
+maître met dans bol autant de pierres que trolls, puis ajouter une pierre. ça c'est bol pour groupe de trolls. si troll veut avoir beaucoup pierres, troll peut prendre une pierre dans bol et mettre dans main.
+
+mais pierre du bol pas pareil. si troll utilise pierre du bol, pierre rendue au maître, toujours.
+
+si échec, nouvelle pierre dans main troll, mais pierre du bol rendue au maître.
+si réussite, troll donne une pierre au maître, mais pierre du bol rendue au maître aussi.
+
+si un troll prend tout le temps pierre du bol. ou si prend pierre du bol pour petite chose, petit danger. alors autres trolls regarder oeil méchant. trolls peuvent être en colère, grande bagarre.
+
+le maître peut remettre nouvelles pierres dans bol si groupe fait bonne mission ou si maître content.
+
+### pierre carrée
+
+quand troll naît, père de troll lance pierre carrée, points dessus.
+
+si père de troll fait quatre points ou moins, troll a quatre pierres dans main. pas savoir compter plus.
+
+si père de troll fait quatre points et un, troll a quatre pierres dans main et peut choisir chose pas pareil comme expliqué dans règle "pas pareil".
+
+si père de troll fait quatre points et deux, troll a quatre pierres et une dans main. savoir compter plus que quatre, c'est marque troll **respecté**. troll peut choisir chose pas pareil, comme expliqué dans règle "pas pareil".
