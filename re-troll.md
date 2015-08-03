@@ -2,6 +2,8 @@
 
 > jeu d'troll trop court. ça, c'est re-troll, aide maître pour idées. personne oblige maître à faire avec re-troll, c'est comme le maître veut.
 
+**DANGER : le maître a dit que re-troll pas fini.**
+
 ## troll fait quoi ?
 
 trolls sont partout, beaucoup de façons. troll peut dormir si longtemps que montagne s'écroule.
