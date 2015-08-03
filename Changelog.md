@@ -4,6 +4,9 @@
 
 * troll peut faire plus-que-une page,
 * re-troll, idées pour maître, pour faire plus que *jeu d'troll* (#2),
+  * troll fait quoi ? idées aventures,
+  * règle pas-pareil,
+  * règle bol de pierres
 * faire site et PDF moche avec `tox` (#6).
 * ajout menu pour messages pour le maître (#7).
 
