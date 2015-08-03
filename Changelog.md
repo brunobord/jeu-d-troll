@@ -3,10 +3,11 @@
 ## master
 
 * troll peut faire plus-que-une page,
-* re-troll, idées pour maître, pour faire plus que *jeu d'troll* (#2),
+* re-troll, idées pour maître, pour faire plus que *jeu d'troll* (#2, #8),
   * troll fait quoi ? idées aventures,
   * règle pas-pareil,
-  * règle bol de pierres
+  * règle bol de pierres,
+  * règle pierre carrée,
 * faire site et PDF moche avec `tox` (#6).
 * ajout menu pour messages pour le maître (#7).
 

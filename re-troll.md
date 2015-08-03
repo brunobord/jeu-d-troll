@@ -59,3 +59,13 @@ si réussite, troll donne une pierre au maître, mais pierre du bol rendue au ma
 si un troll prend tout le temps pierre du bol. ou si prend pierre du bol pour petite chose, petit danger. alors autres trolls regarder oeil méchant. trolls peuvent être en colère, grande bagarre.
 
 le maître peut remettre nouvelles pierres dans bol si groupe fait bonne mission ou si maître content.
+
+### pierre carrée
+
+quand troll naît, père de troll lance pierre carrée, points dessus.
+
+si père de troll fait quatre points ou moins, troll a quatre pierres dans main. pas savoir compter plus.
+
+si père de troll fait quatre points et un, troll a quatre pierres dans main et peut choisir chose pas pareil comme expliqué dans règle "pas pareil".
+
+si père de troll fait quatre points et deux, troll a quatre pierres et une dans main. savoir compter plus que quatre, c'est marque troll **respecté**. troll peut choisir chose pas pareil, comme expliqué dans règle "pas pareil".
